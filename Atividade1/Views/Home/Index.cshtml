@@ -1,0 +1,18 @@
+﻿@model Atividade1.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Login do Usuário</h1>
+   @using (Html.BeginForm("Principal" ,"Home", FormMethod.Post))
+    {
+        <fieldselt>
+        <div>
+            @Html.LabelFor(x => x.Usuario)
+         </div>
+
+        </fieldselt>
+    }
+
+</div>
