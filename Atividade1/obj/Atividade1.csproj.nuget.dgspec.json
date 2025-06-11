@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Atividade1.csproj": {}
+    "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Atividade1.csproj": {
+    "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Atividade1.csproj",
+        "projectUniqueName": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Atividade1.csproj",
         "projectName": "Atividade1",
-        "projectPath": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Atividade1.csproj",
+        "projectPath": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Atividade1.csproj",
         "packagesPath": "C:\\Users\\2ds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\obj\\",
+        "outputPath": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

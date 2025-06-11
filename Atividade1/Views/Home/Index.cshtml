@@ -5,13 +5,22 @@
 
 <div class="text-center">
     <h1 class="display-4">Login do Usuário</h1>
-   @using (Html.BeginForm("Principal" ,"Home", FormMethod.Post))
+    @using (Html.BeginForm("Principal", "Home", FormMethod.Post))
     {
         <fieldselt>
-        <div>
-            @Html.LabelFor(x => x.Usuario)
-         </div>
-
+            <div>
+                @Html.LabelFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Password)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Password)
+            </div>
+            <p><p><input type="submit" value="Enviar" /></p></p>
         </fieldselt>
     }
 

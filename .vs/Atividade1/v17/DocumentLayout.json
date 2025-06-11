@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\Atividade1\\",
+  "WorkspaceRootPath": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|c:\\users\\2ds\\desktop\\atividade1\\atividade1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|solutionrelative:atividade1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|\\\\192.168.1.254\\dados\\2a-ds-pi\\laura e palloma\\ds\\atividade1\\atividade1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|c:\\users\\2ds\\desktop\\atividade1\\atividade1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|solutionrelative:atividade1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|\\\\192.168.1.254\\dados\\2a-ds-pi\\laura e palloma\\ds\\atividade1\\atividade1\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|\\\\192.168.1.254\\dados\\2a-ds-pi\\laura e palloma\\ds\\atividade1\\atividade1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F73404B-2E9C-44AB-B243-642F9FAF92C9}|Atividade1\\Atividade1.csproj|\\\\192.168.1.254\\dados\\2a-ds-pi\\laura e palloma\\ds\\atividade1\\atividade1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +28,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Atividade1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Atividade1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T13:22:35.243Z",
+              "WhenOpened": "2025-06-11T13:08:25.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Views\\Home\\Principal.cshtml",
+              "RelativeDocumentMoniker": "Atividade1\\Views\\Home\\Principal.cshtml",
+              "ToolTip": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Views\\Home\\Principal.cshtml",
+              "RelativeToolTip": "Atividade1\\Views\\Home\\Principal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T12:26:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Atividade1\\Controllers\\HomeController.cs",
+              "ToolTip": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Atividade1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:25:02.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Models\\Login.cs",
+              "DocumentMoniker": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Models\\Login.cs",
               "RelativeDocumentMoniker": "Atividade1\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Atividade1\\Atividade1\\Models\\Login.cs",
+              "ToolTip": "\\\\192.168.1.254\\dados\\2A-DS-PI\\Laura e Palloma\\DS\\Atividade1\\Atividade1\\Models\\Login.cs",
               "RelativeToolTip": "Atividade1\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T12:15:34.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T12:15:34.193Z"
             }
           ]
         }
